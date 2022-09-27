@@ -11,7 +11,7 @@ Hi! I'm <b>Var</b>.
 I like Math and Computers
 <br>
 <p align="center">Developer for <a href="https://badbears.io" target="_blank">BadBears</a> </p>
-<p align="center">Team head at <a href="https://exultsoftware.com" target="_blank">ExultSoftware</a> </p>
+<p align="center">Team lead at <a href="https://exultsoftware.com" target="_blank">ExultSoftware</a> </p>
 <br>
 I know Python, Rust, GO and some JavaScript <br>
 I've made APIs, API wrappers, Discord Bots, ML machines and much more. <br>
