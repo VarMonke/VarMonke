@@ -16,4 +16,4 @@ I like Math and Computers
 I know Python, Rust, GO and some JavaScript <br>
 I've made APIs, API wrappers, Discord Bots, ML machines and much more. <br>
 </p>
-<h6> All I seek for is Navy. I shall wait.</h6>
+<h6> The search for Navy has ended!</h6>
