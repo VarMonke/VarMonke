@@ -1,4 +1,4 @@
-# I'm inactive until April
+# I'm mostly inactive until April
 [![Header](https://raw.githubusercontent.com/VarMonke/VarMonke/main/github.png "Header")](https://varmonke.me)
 <p align="center"><i>Inactivity serves no purpose whatsoever.</i></p>
 
