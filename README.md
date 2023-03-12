@@ -1,18 +1,8 @@
-[![Header](https://raw.githubusercontent.com/VarMonke/VarMonke/main/github.png "Header")](https://varmonke.me)
-<p align="center"><i>Inactivity serves no purpose whatsoever.</i></p>
-
----
-<h1>
-<p align="center">
-Hi! I'm <b>Var</b>.
-</p>
-</h1>
-<p align="center"> 15 year old developer<br>
-I like Math and Computers
-<br>
-<-- <p align="center">Developer for <a href="https://badbears.io" target="_blank">BadBears</a> </p> -->
-<p align="center">Team lead(and the best person) at <a href="https://exultsoftware.com" target="_blank">ExultSoftware</a> </p>
-<br>
-I know Python, Rust, GO and some JavaScript <br>
-I've made APIs, API wrappers, Discord Bots, ML machines and much more. <br>
-</p>
+<HR>
+  <H1 align="center"> VarMonke </H1>
+  <P align="center"> A High-School student who loves tech. </P>
+  <BR>
+  <P align="center"> Adept at Python, GO, Javascript. I know a little bit of Rust.<BR>Currently working on Machine Learning and Artificial Intelligence related projects.<BR><BR>
+    I work with <A href="https://github.com/ExultDevelopment">ExultDevelopment</A> on many of their services.<BR>
+    I work with <A href="https://www.badbears.io/">BadBears</A> on their Discord Bot.
+    </P>
